@@ -6,7 +6,9 @@ This project is created as an application for a Junior Software Developer positi
 
 You can clone the repository using the following command:
 
+```
 git clone https://github.com/TheCaptainKimchi/auphan-software.git
+```
 
 ## 2. Server
 
